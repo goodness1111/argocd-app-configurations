@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: rudolphnfor/etech
+        image: rudolphnfor/etechapp
         ports:
         - containerPort: 8080
